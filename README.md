@@ -16,5 +16,5 @@ I'm a Computer Science student at International Islamic University Malaysia (IIU
 ### ⚡ Fun Fact  
 I love participating in **CTF competitions** and working on **robotics projects**! 🤖
 
-- ![saiba-momoi-blue-sechi](https://github.com/user-attachments/assets/e7a5550c-1b9e-4b93-b62d-9a8c9b9676e8)
+![saiba-momoi-blue-sechi](https://github.com/user-attachments/assets/e7a5550c-1b9e-4b93-b62d-9a8c9b9676e8)
 
